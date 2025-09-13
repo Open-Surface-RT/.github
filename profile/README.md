@@ -21,4 +21,4 @@ For further details contact our ...
 ### Support
 Things aren't always easy.<br>
 If you struggle, have suggestions or just want to say "hi"<br>
-join our [Discord Server](https://discord.com/invite/tAxvvVC)
+join our [Discord Server](https://discord.com/invite/VW75GmWa95)
