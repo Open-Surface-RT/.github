@@ -5,12 +5,12 @@ Currently we support all Nvidia Tegra 3 Windows RT devices:
 - Microsoft Surface RT
 - Microsoft Surface 2
 - Lenovo Ideapad Yoga 11
-- Asus VivoTab RT (see [tf600t](https://github.com/clamor-s/linux/tree/tf600t))
+- Asus VivoTab RT (see [tf600t](https://gitlab.com/clamor-s/linux/-/tree/transformer))
 
 ### Linux
 ... runs on all the above mentioned devices.<br>
 But some can do it better, some still struggle a bit but you can help to improve it ;)<br>
-For further information see our [official documentation](https://openrt.gitbook.io/open-surfacert/)
+For further information see our [official documentation](https://docs.open-rt.party/)
 
 
 ### Android
@@ -21,4 +21,4 @@ For further details contact our ...
 ### Support
 Things aren't always easy.<br>
 If you struggle, have suggestions or just want to say "hi"<br>
-join our [Discord Server](https://discord.com/invite/VW75GmWa95)
+join our [Discord Server](https://open-rt.party/discord)
